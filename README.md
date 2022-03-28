@@ -3,13 +3,8 @@
 
 
 
-<div align="center">
 
-<img align="center" src="https://i.imgur.com/ECU6d5c.png" width="750px">
-
-</div>
-
-<br><br><br><br>
+<br>
 
 <div align="center">
   
