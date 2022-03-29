@@ -25,7 +25,7 @@
 </div>
 
 
-<h2 id="project">⚡ The project: </h2>
+<h2 id="project">⚡ The project </h2>
 
 
 <p> I made this project in React Native, to test my personal brand created.. And to test some animations.</p>
@@ -37,7 +37,8 @@
 
 <h2 id="links">🔗 Links</h2>
 
-[React Navigation](https://reactnavigation.org/) (Animations...)
+[React Navigation](https://reactnavigation.org/) 
+[Expo Documentation](https://docs.expo.dev/) 
 
 
  <br><br>
