@@ -38,14 +38,20 @@
 <h2 id="links">🔗 Links</h2>
 
 [React Navigation](https://reactnavigation.org/) 
+
 [Expo Documentation](https://docs.expo.dev/) 
 
 
  <br><br>
 <h2 id="built_with"> 🧙‍♂️ Built with</h2>
 
-<img width="27px" class="icon" src="https://img.icons8.com/color/48/000000/react-native.png"/> <code>  React Native </code> <br>
+<div>
 
+<img width="27px" class="icon" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <code>  React Native </code> <br>
+
+<img width="27px" src="https://img.icons8.com/dusk/22/000000/javascript-logo.png"/>  <code> JavaScript</code>
+  
+</div>
 <br>
 
 ```
