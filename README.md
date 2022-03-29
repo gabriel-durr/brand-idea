@@ -52,7 +52,10 @@
 <img width="27px" src="https://img.icons8.com/dusk/22/000000/javascript-logo.png"/>  <code> JavaScript</code>
   
 </div>
-<br>
+
+<br><br>
+
+
 
 ```
 1- To install dependencies:
@@ -64,7 +67,7 @@
 
 - expo start 
 ```
-  
+<br>
 
 
 <h4 id = "author">  <em> Made with 💜 By Gabriel Dürr M. </em>  </h4>
