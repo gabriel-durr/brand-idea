@@ -59,15 +59,20 @@
 
 
 
+
+<b>1- To install dependencies:</b>
+
+```bash
+ $ cd loginPage-reactNative
+ $ expo install 
 ```
-1- To install dependencies:
 
- - expo install 
+<br/>
 
-
- 2- To start the application:
-
-- expo start 
+<b>2- To start the application:</b>
+ 
+```bash
+$ expo start 
 ```
 <br><br>
 
