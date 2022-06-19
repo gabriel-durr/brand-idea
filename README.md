@@ -22,13 +22,17 @@
        <a href="#author">Author</a> |
 </div>
 
+<br/><br/>
 
-<h2 id="project">⚡ The project </h2>
+<h2 align="center" id="project">⚡ The project </h2>
 
 
+<br/>
+
+<div align="center">
 <p> I made this project in React Native, to test my personal brand created.. And to test some animations.</p>
 
-
+</div>
 
 <br>
 
