@@ -39,9 +39,9 @@
 
 <h2 id="links">🔗 Links</h2>
 
-[React Navigation](https://reactnavigation.org/) 
+[react navigation](https://reactnavigation.org/) 
 
-[Expo Documentation](https://docs.expo.dev/) 
+[expo docs](https://docs.expo.dev/) 
 
 
  <br><br>
