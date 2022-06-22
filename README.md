@@ -26,7 +26,6 @@
 
 <h2 align="center" id="project">⚡ The project </h2>
 
-
 <br/>
 
 <div align="center">
